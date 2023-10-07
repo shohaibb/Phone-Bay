@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro Max",
+      "price": 1099,
+      "imgUrl": "/images/IPhone14ProMax.jpeg",
+      "color": "SILVER",
+      "storage":"128",
+      "description": "- Storage: 128 GB\n- Color: SILVER\n- Size: 6.33″x 3.05″\n- Screen: Super Retina XDR display\n  ProMotion technology, Always-On display\n- Emergency SOS via satellite, \n  Emergency SOS, Crash Detection\n \n- Camera: Pro camera system \n  48MP Main | Ultra Wide Telephoto \n  Photonic Engine for incredible detail color \n  Autofocus on TrueDepth front camera\n \n - Battery: Up to 29 hours video playback \n - A16 Bionic chip \n - Face ID \n - Superfast 5G cellular "
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14 Pro",
+      "price": 999,
+      "imgUrl": "/images/IPhone14Pro.jpeg",
+      "color": "SILVER",
+      "storage":"128",
+      "description": "- Storage: 128 GB\n- Color: SILVER\n- Size: 5.81″x 2.82″\n- Screen: Super Retina XDR display\n  ProMotion technology, Always-On display\n- Emergency SOS via satellite, \n  Emergency SOS, Crash Detection\n \n- Camera: Pro camera system \n  48MP Main | Ultra Wide Telephoto \n  Photonic Engine for incredible detail color \n  Autofocus on TrueDepth front camera\n \n - Battery: Up to 29 hours video playback \n - A16 Bionic chip \n - Face ID \n - Superfast 5G cellular "
+
+    },
+    {
+      "id": 3,
+      "name": "iPhone 14",
+      "price": 799,
+      "imgUrl": "/images/IPhone14.jpeg",
+      "color": "STARLIGHT",
+      "storage":"128",
+      "description": "- Storage: 128 GB\n- Color: STARLIGHT\n- Size: 5.78″x 2.81″\n- Screen: Super Retina XDR display\n- Emergency SOS via satellite, \n  Emergency SOS, Crash Detection\n \n- Camera: Advanced dual-camera system \n  12MP Main | Ultra Wide \n  Photonic Engine for incredible detail color \n  Autofocus on TrueDepth front camera\n \n - Battery: Up to 26 hours video playback \n - A15 Bionic chip with 5-core GPU \n - Face ID \n - Superfast 5G cellular "
+
+    },
+    {
+      "id": 4,
+      "name": "iPhone 13",
+      "price": 699,
+      "imgUrl": "/images/IPhone13.jpeg",
+      "color": "MIDNIGHT",
+      "storage":"128",
+      "description": "- Storage: 128 GB\n- Color: MIDNIGHT\n- Size: 5.78″x 2.82″\n- Screen: Super Retina XDR display\n- Emergency SOS\n \n- Camera: Dual-camera system \n  12MP Main | Ultra Wide \n  TrueDepth front camera \n \n - Battery: Up to 19 hours video playback \n - A15 Bionic chip with 4-core GPU \n - Face ID \n - Superfast 5G cellular "
+
+    },
+    {
+      "id": 5,
+      "name": "iPhone 12",
+      "price": 649,
+      "imgUrl": "/images/IPhone12.jpeg",
+      "color": "WHITE",
+      "storage":"128",
+      "description": "- Storage: 128 GB\n- Color: WHITE\n- Size: 5.78″x 2.82″\n- Screen: Super Retina XDR display\n- Emergency SOS\n \n- Camera: Dual-camera system \n  12MP Main | Ultra Wide \n  TrueDepth front camera \n \n - Battery: Up to 17 hours video playback \n - A14 Bionic chip with 4-core GPU \n - Face ID \n - Superfast 5G cellular "
+
+    },
+    {
+      "id": 6,
+      "name": "iPhone SE",
+      "price": 479,
+      "imgUrl": "/images/IPhoneSE.jpeg",
+      "color": "STARLIGHT",
+      "storage":"128",
+      "description": "- Storage: 128 GB\n- Color: STARLIGHT\n- Size: 5.45″x 2.65″\n- Screen: Retina HD display\n- Emergency SOS\n \n- Camera: Advanced camera \n  12MP Main Front camera \n \n - Battery: Up to 15 hours video playback \n - A15 Bionic chip with 4-core GPU \n - Touch ID \n - 5G cellular "
+
+    },
+    {
+      "id": 7,
+      "name": "Galaxy Z Fold5",
+      "price": 1799.99,
+      "imgUrl": "/images/GalaxyZFold5.jpg",
+      "color": "ICY BLUE",
+      "storage":"128",
+      "description": "- Storage: 256 GB\n- Color: ICY BLUE\n- Size: 6.10″x 2.64″\n- Screen: 7.6” Dynamic AMOLED 2X \n  Infinity Flex Display\n \n- Camera: Ultra Wide Camera \n  50MP Wide, \n 12MP Ultra Wide, \n  10MP Tele 3X Optical Zoom, \n  30X Space Zoom\n \n - Battery: 4400 mAh \n - Qualcomm Snapdragon 8 Gen2 Mobile Platform \n - Ultrasonic Fingerprint Scanner, Capacitive FP \n - Latest network technology with the power of 5G "
+
+    },
+    {
+      "id": 8,
+      "name": "Galaxy S23 Ultra",
+      "price": 1199.99,
+      "imgUrl": "/images/GalaxyS23Ultra.jpg",
+      "color": "PHANTOM BLACK",
+      "storage":"256",
+      "description": "- Storage: 256 GB\n- Color: PHANTOM BLACK\n- Size: 6.43″x 3.07″\n- Screen: 6.7” Dynamic AMOLED 2X \n  Infinity Flex Display\n \n- Camera: Ultra Wide Camera \n  200MP Wide \n  12MP Ultra Wide \n  10MP Tele 3X Optical Zoom \n  10MP Tele 10X Optical Zoom \n  100X Space Zoom \n \n - Battery: 5,000 mAh \n - Qualcomm Snapdragon 8 Gen2 Mobile Platform \n - Ultrasonic Fingerprint Scanner \n - Latest network technology with the power of 5G "
+
+
+    },
+    {
+      "id": 9,
+      "name": "Galaxy Z Flip5",
+      "price": 999.99,
+      "imgUrl": "/images/GalaxyZFlip5.jpg",
+      "color": "GRAPHITE",
+      "description": "- Storage: 256 GB\n- Color: GRAPHITE\n- Size: 6.5″x 2.8″\n- Screen: 6.7” Dynamic AMOLED 2X \n  Infinity Flex Display\n \n- Camera: Ultra Wide Camera \n  12MP Wide,\n  12MP Ultra Wide, \n  10MP Digital Zoom\n \n - Battery: 3700 mAh \n - Qualcomm Snapdragon 8 Gen2 Mobile Platform \n - Ultrasonic Fingerprint Scanner \n - Latest network technology with the power of 5G "
+
+    },
+    {
+      "id": 10,
+      "name": "OnePlus 11",
+      "price": 599.99,
+      "imgUrl": "/images/OnePlus11.jpg",
+      "color": "TITAN BLACK",
+      "storage":"128",
+      "description": "- Storage: 128 GB\n- Color: TITAN BLACK\n- Size: 6.42″x 2.91″\n- Screen: 3216*1440 (QHD+), 525 ppi\n  120 Hz Super Fluid AMOLED with LTPO\n \n- Camera: Ultra-wide Camera \n  Sony IMX890 \n  Megapixels: 50 \n  Lens Quantity: 6P \n \n - Battery: 5000 mAh \n - Qualcomm Snapdragon 8 Gen 2 processor \n - Face Unlock \n - 5G cellular "
+
+    },
+    {
+      "id": 11,
+      "name": "Google Pixel 7a",
+      "price": 499.99,
+      "imgUrl": "/images/GooglePixel7a.jpg",
+      "color": "SEA",
+      "storage":"128",
+      "description": "- Storage: 128 GB\n- Color: SEA\n- Size: 6.1″x 2.8″\n- Screen: Full-screen 6.1-inch (155 mm) display,1 up to 90Hz\n\n- Camera: 64 MP Quad PD Quad Bayer wide camera \n  0.8 μm pixel width \n  Super Res Zoom up to 8x10 \n \n - Battery: 4385 mAh \n - Google Tensor G2 Titan M2™ security coprocessor \n - Face Unlock \n - 5G cellular "
+
+    },
+    {
+      "id": 12,
+      "name": "Galaxy A54",
+      "price": 449.99,
+      "imgUrl": "/images/GalaxyA54.jpg",
+      "color": "AWESOME GRAPHITE",
+      "storage":"128",
+      "description": "- Storage: 128 GB\n- Color: AWESOME GRAPHITE\n- Size: 6.23″x 3.02″\n- Screen: Super AMOLED, 120Hz, HDR10+, 1000 nits (HBM) \n\n- Camera: Ultra Wide Camera \n 12MP ultrawide\n 50MP primary camera \n \n - Battery:  5700 mAh \n - 6 GB RAM  \n - 5G cellular "
+
+    }
+    
+    
+  ]
